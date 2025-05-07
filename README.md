@@ -1,2 +1,2 @@
 
-[upjr](https://github.com/luisreylara/practica7Mayo/blob/main/logo.png)
+![upjr](https://github.com/luisreylara/practica7Mayo/blob/main/logo.png)
